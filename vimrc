@@ -25,7 +25,7 @@ Plugin 'bash-support.vim'
 " end Vundle
 call vundle#end()
 " filetype plugin indent on
-filetype plugin on
+filetype plugin indent on
 set title
 
 " environment
